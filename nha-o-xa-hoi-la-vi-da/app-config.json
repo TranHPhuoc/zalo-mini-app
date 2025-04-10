@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "Nhà Ở Xã Hội - New LaVIDA",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#ffffff",
+    "leftButton": "none",
+    "statusBar": "transparent",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true,
+    "textAlign": "left"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": ["/user", "/form", "/dynamic-route", "/about", "/404"],
+  "template": {
+    "primaryColor": "#006af5",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": "https://res.cloudinary.com/dfzc1gkqr/image/upload/v1726731484/Nh%C3%A0%20%E1%BB%9E%20X%C3%A3%20H%E1%BB%99i%20-%20New%20LaVIDA/k9k6cndrc7tawqkq8nwp.jpg"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "Gladia Khang Điền",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#ffffff",
+    "leftButton": "none",
+    "statusBar": "transparent",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true,
+    "textAlign": "left"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": ["/user", "/form", "/dynamic-route", "/about", "/404"],
+  "template": {
+    "primaryColor": "#006af5",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": "https://res.cloudinary.com/dl4szj3ff/image/upload/v1744102411/Gladia%20Khang%20%C4%90i%E1%BB%81n/zsyrirjpomnoup6mesu2.png"
+  }
+}
